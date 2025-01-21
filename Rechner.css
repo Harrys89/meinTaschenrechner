@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(24, 19, 44);
+}
+.all{
+    border-radius: black ;
+    margin-left: 360px;
+    margin-top: 50px;
+    height: 370px;
+    width: 250px;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 4px 5px 2px;
+    background-color: blue;
+}
+.container1, .container2, .container3, .container4, #textbx{
+    margin-left: 10px;
+}
+
+nav{
+    color: red;
+}
+    
+h1{
+    margin-left: 20px;
+    color: red;
+    background-color: yellow;
+    width: 220px;
+}
+
+p{
+    margin-left: 40px;
+    background-color: blue;
+    color: yellow;
+    width: 160px;
+}
+
+.allinnercontainers{
+    width: 190px;
+    height: 235px;
+    border-radius: 3px;
+    border-style: ridge;
+    border-radius: black;
+    margin-left: 25px;
+    box-shadow: 2px 3px 2px;
+    border-color: black;
+    background-color: rgb(244, 9, 17);
+}
+
+
+#nummer7, #nummer8, #nummer9, #operator {
+    width: 30px;
+    height: 30px;
+    margin-left: 7px;
+    margin-top: 10px;
+    background-color: lightblue;
+    border-radius: 5px;
+    box-shadow: 1px 5px 1px;
+    
+}
+
+#nummer4, #nummer5, #nummer6, #operator {
+    width: 30px;
+    height: 30px;
+    margin-left: 7px;
+    margin-top: 10px;
+    background-color: lightblue;
+    border-radius: 5px;
+    box-shadow: 1px 5px 1px;
+}
+
+#nummer1, #nummer2, #nummer3, #operator{
+    width: 30px;
+    height: 30px;
+    margin-left: 7px;
+    margin-top: 10px;
+    background-color: lightblue;
+    border-radius: 5px;
+    box-shadow: 1px 5px 1px;
+}
+
+#nummer0, #punktbtn, #istgleichbtn, #operator{
+    width: 30px;
+    height: 30px;
+    margin-left: 7px;
+    margin-top: 10px;
+    background-color: lightblue;
+    border-radius: 5px;
+    box-shadow: 1px 5px 1px;
+}
+
+#textbx{
+    height: 40px;
+    width: 160px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border-color: blue;
+    box-shadow: 2px 5px 1px;
+}
